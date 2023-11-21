@@ -1,4 +1,4 @@
-Disney Plus Clone Application :
+# Disney Plus Clone Application :
  A Clone application developed by using  React JS, Redux, HTML, Styled Components and Firebase Authentication, Database and Hosting.
  Deployed and Running application link in Firebase:
  https://disneyplus-project-1f3ab.web.app/
