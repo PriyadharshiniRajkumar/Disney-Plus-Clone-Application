@@ -1,3 +1,11 @@
+Disney Plus Clone Application :
+ A Clone application developed by using  React JS, Redux, HTML, Styled Components and Firebase Authentication, Database and Hosting.
+ Deployed and Running application link in Firebase:
+ https://disneyplus-project-1f3ab.web.app/
+
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
